@@ -9,7 +9,7 @@ if (3,0) <= sys.version_info < (4,0):
 elif (2,6) <= sys.version_info < (3,0):
     import httplib
 
-TOKEN = "Bearer i_V4E1xwyyAAAAAAAAAF_EM8xJKR6FA79POyFGfl6DTsCLlbUDawFtCwqLs4vOYx"
+TOKEN = "xxxxxxxx"
 PathInput = input('Input the Dropbox path you want to organize your Paper Doc:>')
 
 def PaperDocOrg():
